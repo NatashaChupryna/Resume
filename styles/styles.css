@@ -159,6 +159,19 @@ body {
   margin-bottom: 25px;
 }
 
+.about {
+  display: block;
+  width: 600px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+.svg-smile {
+  fill: currentColor;
+}
+
 .user-skills {
   font-style: normal;
   font-weight: 400;
